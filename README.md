@@ -1,6 +1,4 @@
 # VaseOS - Arch Linux 
 
-- ISO Build Workflows
-- QEMU/KVM Testing Suite
-- Archinstall Fork
-- Post-install Utilities
+- Docs: https://h8d13.codeberg.page/ZUNO/
+- Main repo: https://github.com/h8d13/Vase#
